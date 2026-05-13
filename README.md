@@ -1,29 +1,29 @@
 # CV_Example
-# Hoja de Vida
+# Curriculum
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Jhonatan Alexander Londoño Mesa
+**Profession:** _Software analyst and developer_
 
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+## 📞 Contact
+- **Phone:** +57 319 288 61 01
+- **Email:** [gpp.alex4@gmail.com](gpp.alex4@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+## 🏢 Work experience
+### **Quality carwash massive and associated** _(2024 - 2025)_
+- Operational technique, beautification of the Transmilenio vehicle fleet.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+## 🎓 Education
+### **Colegio nueva generación Altamira** _(2016 - 2021)_
+- Graduation certificate.
 
-## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+- ### **Servicio nacional de aprendizaje (SENA)** _(2019 - 2021)_
+- Graduation certificate.
 
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+## 💡 Skills
+- **Efficient information fragmentation and optimization**
+- **effective inclusion of the work team**
+- **good level of self-teaching**
 
 ---
 
